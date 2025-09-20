@@ -1,2 +1,2 @@
-keep inventory demo link vedio: https://drive.google.com/file/d/13ioFzNk_oUTH33KrruZTlBdB3m2Lmdgc/view?usp=drivesdk
+keep inventory demo link vedio: https://drive.google.com/file/d/1CvxNKjl1CsGIXCkzHiRm2JnWZgXdQkuI/view?usp=drivesdk
 # Keep-inventory-
